@@ -6,7 +6,6 @@
   "description": "An extension to help anybody who wants to be reminded to just listen.",
 
   "content_scripts": [{
-    "css": ["styles.css"],
     "js": ["content.js"],
     "matches": ["https://*/groups/862008810509325/*"]
   }],
