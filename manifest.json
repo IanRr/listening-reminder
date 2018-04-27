@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Monday Reminder",
+  "version": "0.1.0",
+  "description": "An extension to help anybody who wants to be reminded to just listen.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://*/groups/862008810509325/*"]
+  }],
+  "permissions": [
+    "tabs"
+  ]
+
+}
