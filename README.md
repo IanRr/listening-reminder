@@ -8,4 +8,24 @@ It doesn't stop you from posting, of course, it just reminds you when it's Monda
 
 It looks like this:
 
+![Writing A Post](https://github.com/IanRr/listening-reminder/blob/master/img/writing-post.png)
+
+![Writing a comment](https://github.com/IanRr/listening-reminder/blob/master/img/writing-comment.png)
+
+## Installation
+
+It's pretty easy. I don't have a Windows machine so I've only tried this on Mac, but it should be pretty much the same.
+
+Near the top of this screen, click the "clone or download" button and "download ZIP"
+
+![Download The ZIP](https://github.com/IanRr/listening-reminder/blob/master/img/download-zip.png)
+
+and then go to (chrome://extensions) ... you may need to enable "Developer Mode" if it isn't, otherwise nothing will happen
+
 ![Setting Developer Mode](https://github.com/IanRr/listening-reminder/blob/master/img/developer-mode.png "Setting Developer Mode")
+
+Just dropped the (unzipped) folder you downloaded onto the screen, and you should see it appear in your extensions!
+
+And that is it!  Every week, starting on Monday 12AM UTC, you'll get extra help remembering to, y'know, sit down
+
+**Good luck!! Happy listening!!**
