@@ -8,4 +8,4 @@ It doesn't stop you from posting, of course, it just reminds you when it's Monda
 
 It looks like this:
 
-!(https://github.com/IanRr/listening-reminder/blob/master/img/developer-mode.png)
+![Setting Developer Mode](https://github.com/IanRr/listening-reminder/blob/master/img/developer-mode.png "Setting Developer Mode")
