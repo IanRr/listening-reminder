@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "Monday Reminder",
+  "name": "Listening Reminder",
   "version": "0.1.0",
   "description": "An extension to help anybody who wants to be reminded to just listen.",
 
   "content_scripts": [{
-    "js": ["content.js"],
-    "matches": ["https://*/groups/862008810509325/*"]
+    "js": ["index.js"],
+    "matches": ["https://*.facebook.com/groups/*"]
   }],
   "permissions": [
     "tabs"
