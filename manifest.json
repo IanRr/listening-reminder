@@ -8,9 +8,6 @@
   "content_scripts": [{
     "js": ["index.js"],
     "matches": ["https://www.facebook.com/groups/*"]
-  }],
-  "permissions": [
-    "tabs"
-  ]
+  }]
 
 }
