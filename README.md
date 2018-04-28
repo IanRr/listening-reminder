@@ -1,6 +1,8 @@
 # GMU MONDAY REMINDER EXTENSION
 
-this is a Chrome extension to help anyone who wants to remember to just listen
+This is a Chrome extension to help anyone who wants to remember to just listen.
+
+**Heads up though!  It won't affect your phone's Facebook app.  I don't know how to do that yet or possibly ever**
 
 It's maybe a little clumsy but also whatever?  To paraphrase R. Beef Kazenzakis, "It's not like even know if you care." ... If you do, there's a few things I'd like to do to expand it, like for example make it work with other groups besides [God Messed Up And Here We Are](https://www.facebook.com/groups/862008810509325)
 
