@@ -20,7 +20,7 @@ Near the top of this screen, click the "clone or download" button and "download 
 
 ![Download The ZIP](https://github.com/IanRr/listening-reminder/blob/master/img/download-zip.png)
 
-and then go to [your Chrome extensions manager](chrome://extensions) ... you may need to enable "Developer Mode" if it isn't, otherwise nothing will happen
+and then go to [chrome://extensions/](chrome://extensions/) ... you may need to enable "Developer Mode" if it isn't, otherwise nothing will happen
 
 ![Setting Developer Mode](https://github.com/IanRr/listening-reminder/blob/master/img/developer-mode.png "Setting Developer Mode")
 
