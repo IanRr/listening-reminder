@@ -7,7 +7,7 @@
 
   "content_scripts": [{
     "js": ["index.js"],
-    "matches": ["https://*.facebook.com/groups/*"]
+    "matches": ["https://www.facebook.com/groups/*"]
   }],
   "permissions": [
     "tabs"

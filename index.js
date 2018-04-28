@@ -6,7 +6,7 @@ var groups = [
 
 var groupId = parseInt(location.pathname.replace('/groups/',''));
 
-if (groups.includes(groupId) && dt.getUTCDay()===5) {
+if (groups.includes(groupId) && dt.getUTCDay()===1) {
   var css = document.styleSheets[document.styleSheets.length-1];
   css.insertRule('.UFIAddCommentInput {  color: red!important;');
   css.insertRule('.UFIAddCommentInput::before { content: "Hi! You opted to be reminded not to "; }');
